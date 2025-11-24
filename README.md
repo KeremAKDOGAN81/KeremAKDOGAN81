@@ -27,7 +27,7 @@ Yazılım dünyasına **C++** ile güçlü bir giriş yaptım ve ileri seviye e�
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/kerem-akdoğan-78716233a/" target="_blank">
+  <a href="https://www.linkedin.com/in/kerem-akdo%C4%9Fan-b77145314/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
