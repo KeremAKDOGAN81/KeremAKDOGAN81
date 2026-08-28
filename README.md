@@ -2,7 +2,7 @@
 
 **Computer Programming** student at [Sakarya University of Applied Sciences](https://www.sakarya.edu.tr/en). Next term: **Erasmus in Poland**.
 
-I've been into computers since I was young. I got into software through **C++**, then kept going with **front-end** — web interfaces and field panels. Along the way I built projects across different areas: SCADA dashboards, an assembly-line monitor, and a student tool.
+I've been into computers since I was young. I got into software through **C++**, then kept going with **front-end** — web interfaces and field panels. Along the way I built projects across different areas: SCADA dashboards, an assembly-line monitor, a mobile student app, and my portfolio site.
 
 I don't have one sector locked in. Wherever I start working, I try to be as good as I can there.
 
@@ -16,8 +16,9 @@ Open to **internships** and **freelance** work.
 | Project | About | Links |
 | --- | --- | --- |
 | **Akdogan SCADA** | Web SCADA panel — live KPI, trends, alarms | [Repo](https://github.com/KeremAKDOGAN81/Akdogan-SCADA) · [Live](http://keremscada.somee.com) |
-| **TMMT Assembly Monitor** | Six-station assembly line digital twin | [Repo](https://github.com/KeremAKDOGAN81/TMMT-Assembly-Monitor) |
-| **UniMan** | Grades, GPA, and schedule in one page | [Repo](https://github.com/KeremAKDOGAN81/UniMan) |
+| **TMMT Assembly Monitor** | Six-station assembly line digital twin — OEE, SPC, Andon | [Repo](https://github.com/KeremAKDOGAN81/TMMT-Assembly-Monitor) |
+| **uniman-app** | Mobile student app — schedule, GPA, notes, reminders (Expo, on-device SQLite) | [Repo](https://github.com/KeremAKDOGAN81/uniman-app) |
+| **mySite** | Personal portfolio — web UI, field panels, SCADA case studies (TR/EN) | [Repo](https://github.com/KeremAKDOGAN81/mySite) · [Live](http://akdogankerem.somee.com) |
 
 ---
 
@@ -29,6 +30,8 @@ Open to **internships** and **freelance** work.
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
